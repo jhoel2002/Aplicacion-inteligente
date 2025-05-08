@@ -41,7 +41,7 @@ dependencies {
     implementation(libs.constraintlayout)
 
     // Implementacion Spinner
-    implementation ("androidx.appcompat:appcompat:1.4.1") // Verifica si hay una versión más reciente
+    implementation ("androidx.appcompat:appcompat:1.4.1") // Verifica si hay una versión más  reciente
     implementation ("com.google.android.material:material:1.4.0")// Si usas Material Design
 
     implementation ("com.makeramen:roundedimageview:2.3.0")

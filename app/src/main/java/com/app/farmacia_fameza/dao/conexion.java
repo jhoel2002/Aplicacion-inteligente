@@ -145,7 +145,7 @@ public class conexion extends SQLiteOpenHelper {
                 "('La Roche', 1), " +
                 "('Merck', 1)");
 
-        // Insertar datos en la tabla Category
+        // Insertar datos en la tabla  Category
         db.execSQL("INSERT INTO " + TABLE_CATEGORY + " (name, status) VALUES " +
                 "('Analgésicos', 1), " +
                 "('Antibióticos', 1), " +

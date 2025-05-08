@@ -19,5 +19,8 @@ dependencyResolutionManagement {
     }
 }
 
+
 rootProject.name = "farmacia-fameza"
 include(":app")
+
+
